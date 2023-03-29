@@ -16,7 +16,7 @@ export async function loadFonts () {
     custom: {
       families: ['HarmonyOS'],
     },active(){
-     document.body.style.fontFamily = 'HarmonyOS,sans-serif';
+     document.body.style.fontFamily = 'PingFang SC,HarmonyOS,sans-serif';
      }
 
   })
