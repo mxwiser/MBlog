@@ -11,7 +11,7 @@ export async function loadFonts () {
     google: {
       families: ['Noto Sans SC']
     },active(){
-      document.body.style.fontFamily = 'Noto Sans SC';
+      document.body.style.fontFamily = 'Noto Sans SC,sans-serif';
     }
     // custom: {
     //   //families: ['puhui'],

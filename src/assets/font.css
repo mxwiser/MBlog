@@ -1,4 +1,32 @@
 @font-face {
-    font-family:"puhui";
-    src:url("./fonts/puhui_Regular.woff") format('woff');
+    font-family: 'HarmonyOS_Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./fonts/HarmonyOS/HarmonyOS_Sans_SC_Regular.s0.woff2') format('woff2');
+    unicode-range: U+0000-1000;
+}
+@font-face {
+    font-family: 'HarmonyOS_Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./fonts/HarmonyOS/HarmonyOS_Sans_SC_Regular.s1.woff2') format('woff2');
+    unicode-range: U+1001-2000;
+}
+@font-face {
+    font-family: 'HarmonyOS_Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./fonts/HarmonyOS/HarmonyOS_Sans_SC_Regular.s2.woff2') format('woff2');
+    unicode-range: U+2001-3000;
+}
+@font-face {
+    font-family: 'HarmonyOS_Regular';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('./fonts/HarmonyOS/HarmonyOS_Sans_SC_Regular.s3.woff2') format('woff2');
+    unicode-range: U+2001-3000;
 }
