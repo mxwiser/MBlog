@@ -15,7 +15,6 @@ export async function loadFonts () {
     // }
     custom: {
       //families: ['阿里巴巴普惠体 Light'],
-
     },active(){
       //document.body.style.fontFamily = '阿里巴巴普惠体 Light';
      }
