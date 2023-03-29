@@ -14,9 +14,9 @@ export async function loadFonts () {
     //   document.body.style.fontFamily = '阿里巴巴普惠体 Light';
     // }
     custom: {
-      //families: ['阿里巴巴普惠体 Light'],
+      families: ['puhui'],
     },active(){
-      //document.body.style.fontFamily = '阿里巴巴普惠体 Light';
+      document.body.style.fontFamily = 'puhui';
      }
 
   })
