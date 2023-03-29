@@ -17,8 +17,8 @@
 
           <h4>Vite Preview</h4>
 
-        <p class="subheading font-weight-">
-          For help and collaboration with other Vuetify developers,
+        <p class="subheading font-weight-regular">
+         你好啊，你好。
           <br>please join our online
           <a
             href="https://community.vuetifyjs.com"
