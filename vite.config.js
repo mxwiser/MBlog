@@ -19,5 +19,9 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-    base:'/info'
+    base:'/info',
+    server: {
+        host:'dgims.tech',
+        port:80
+    }
 })
