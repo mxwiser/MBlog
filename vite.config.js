@@ -21,7 +21,7 @@ export default defineConfig({
   },
     base:'/info',
     server: {
-        host:'dgims.tech',
+        host:'0.0.0.0',
         port:80
     }
 })

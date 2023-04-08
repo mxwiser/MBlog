@@ -12,13 +12,13 @@
 
       <v-col class="mb-4">
         <h1 class="display-2 font-weight-bold mb-3">
-         欢迎来到 Vuetify 3 Beta
+         每日黑巧
         </h1>
 
           <h4>Vite Preview</h4>
 
         <p class="subheading font-weight-regular">
-         你好啊，你好。
+
           <br>please join our online
           <a
             href="https://community.vuetifyjs.com"
