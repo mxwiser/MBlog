@@ -6,7 +6,7 @@
           :src="logo"
           class="my-3"
           contain
-          height="200"
+          height="110"
         />
       </v-col>
 
@@ -15,7 +15,7 @@
          每日黑巧
         </h1>
 
-          <h4>Vite Preview</h4>
+          <h4>预览黑巧</h4>
 
         <p class="subheading font-weight-regular">
 
@@ -32,7 +32,7 @@
         cols="12"
       >
         <h2 class="headline font-weight-bold mb-5">
-          What's next?
+         下一步会怎么样?
         </h2>
 
         <v-row justify="center">
@@ -53,7 +53,7 @@
         cols="12"
       >
         <h2 class="headline font-weight-bold mb-5">
-          Important Links
+          重要的链接
         </h2>
 
         <v-row justify="center">
@@ -74,7 +74,7 @@
         cols="12"
       >
         <h2 class="headline font-weight-bold mb-5">
-          Ecosystem
+          开源系统
         </h2>
 
         <v-row justify="center">
@@ -94,7 +94,7 @@
 </template>
 
 <script>
-import logo from '../assets/logo.svg'
+import logo from '../assets/logo-rect-ca.png'
 
 export default {
   name: 'HelloWorld',
