@@ -94,7 +94,7 @@
 </template>
 
 <script>
-import logo from '../assets/logo-rect-ca.png'
+import logo from '../assets/img/logo-rect-ca.png'
 
 export default {
   name: 'HelloWorld',
